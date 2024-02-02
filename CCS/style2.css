@@ -1,0 +1,50 @@
+
+
+.main-login{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+} 
+.box-login {
+    width:320px;
+    min-height: 200px;
+   
+}
+.box-login h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.box {
+    background-color: #fff;
+    border:1px solid #ddd;
+    padding:10px;
+    box-sizing: border-box;
+    margin:5px 0 25px;
+}
+.btn-login {
+    padding:7px 20px;
+    background-color: #C70039;
+    color: #ddd;
+    border:none;
+    font-size: 16px;
+}
+.btn-login:hover {
+    cursor: pointer;
+    background-color: #900c3f;
+}
+.input-control {
+    padding:5px 10px;
+    font-size:16px;
+    margin:5px 0;
+} 
+header {
+    border: 1px solid black;
+    min-height: 70px;
+    
+}
+header h1 {
+    padding: 15px 25px;
+    border:1px solid;
+}
